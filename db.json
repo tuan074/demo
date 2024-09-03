@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "skibidi" },
-    { "id": 2, "title": "codemaxxing" },
-    { "id": 3, "title": "edge" }
+    { "id": 1, "title": "a" },
+    { "id": 2, "title": "a" },
+    { "id": 3, "title": "a" }
   ],
   "comments": [
-    { "id": 1, "body": "cho-rizz-o", "postId": 1 },
-    { "id": 2, "body": "satire", "postId": 1 }
+    { "id": 1, "body": "b", "postId": 1 },
+    { "id": 2, "body": "b", "postId": 1 }
   ],
   "profile": {
-    "name": "tuan074"
+    "name": "a"
   }
 }
